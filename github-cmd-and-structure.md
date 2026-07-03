@@ -50,6 +50,16 @@ This document defines how our team uses GitHub across all projects. Everyone —
 
 ---
 
+```cmd
+git init
+git branch -M main
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourcompany/server.git
+git push -u origin main
+git checkout -b uat
+git push -u origin uat
+```
+
 ## 4. Branching Model
 
 ```
