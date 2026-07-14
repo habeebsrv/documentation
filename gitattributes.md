@@ -17,6 +17,6 @@ git rm --cached file_name
 ```
 
 Enable
-```powershell
+```powershellsdfsdfsdfsdf
 git config merge.ours.driver true
 ```
